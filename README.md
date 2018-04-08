@@ -1,5 +1,11 @@
 # GLFW 3.2 for Go [![Build Status](https://travis-ci.org/go-gl/glfw.svg?branch=master)](https://travis-ci.org/go-gl/glfw) [![GoDoc](https://godoc.org/github.com/go-gl/glfw/v3.2/glfw?status.svg)](https://godoc.org/github.com/go-gl/glfw/v3.2/glfw)
 
+
+## This fork
+
+- backporting x11 input repeat fix from 4ff66a7818e3eaa5362c828a18220b12f1cd9bc8 to 3.2
+
+
 ## Installation
 
 * GLFW C library source is included and built automatically as part of the Go package. But you need to make sure you have dependencies of GLFW:
