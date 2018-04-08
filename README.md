@@ -1,5 +1,4 @@
-# GLFW 3.2 for Go [![Build Status](https://travis-ci.org/go-gl/glfw.svg?branch=master)](https://travis-ci.org/go-gl/glfw) [![GoDoc](https://godoc.org/github.com/go-gl/glfw/v3.2/glfw?status.svg)](https://godoc.org/github.com/go-gl/glfw/v3.2/glfw)
-
+# GLFW 3.2 for Go
 
 ## This fork
 
